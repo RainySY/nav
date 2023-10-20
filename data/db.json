@@ -12,9 +12,9 @@
                                 "name": "midnight",
                                 "createdAt": "2021-02-18T13:06:06.671Z",
                                 "rate": 5,
-                                "desc": "俄罗斯开发的专注绿演,目前暂未开放购买",
+                                "desc": "俄罗斯开发的专注绿演,目前CS2处于公开测试阶段，仅供之前有订阅的用户使用，暂未开放购买",
                                 "top": false,
-                                "icon": "https://midnight.im/styles/nubia/xenforo/xenforo-logo.png",
+                                "icon": "https://midnight.im/favicon.ico",
                                 "url": "https://midnight.im/"
                             }        
                         ],
@@ -25,7 +25,7 @@
                         "title": "高价",
                         "nav": [
                             {
-                                "icon": "https://www.iniuria.us/forum/images/styles/ambient-lightingv4/images/logo_starwars_c.png",
+                                "icon": "https://www.iniuria.us/favicon.ico",
                                 "name": "iniuria",
                                 "desc": "美国佬的专注绿演，价格偏高，目前CS2单月15欧元，永久79欧元；建议等万圣节降价活动购买",
                                 "url": "https://www.iniuria.us/",
@@ -35,13 +35,10 @@
                                 "top": false
                             },
                             {
-                                "icon": "https://avatars2.githubusercontent.com/u/19645609?s=200&v=4",
-                                "name": "YApi",
-                                "desc": "YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台",
-                                "url": "https://yapi.baidu.com/",
-                                "urls": {
-                                    "Github": "https://github.com/YMFE/yapi"
-                                },
+                                "icon": "https://aimware.net/favicon.ico",
+                                "name": "Aimware",
+                                "desc": "老牌大厂，暂时修复死号问题已可注入使用！功能全面",
+                                "url": "https://aimware.net/",
                                 "createdAt": "2021-01-23T01:32:06.423Z",
                                 "rate": 5,
                                 "top": false
